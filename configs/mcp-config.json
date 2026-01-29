@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "product-handoff": {
+      "command": "python3",
+      "args": ["/workspaces/ProductEngFlowMCP/mcp-bridge/server.py"]
+    }
+  }
+}
